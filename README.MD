@@ -1,5 +1,7 @@
 # Dashboard IoT Monitoring
 
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
+
 Proyek ini merupakan tampilan antarmuka (dashboard) untuk memantau data IoT secara real-time. Dashboard ini mendukung monitoring API, update OTA, dan visualisasi data lainnya.
 
 ## Fitur
